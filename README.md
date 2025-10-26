@@ -1,2 +1,2 @@
 # React_JS_Projects
-React JS Projects I made.
+Most of the React JS Projects I made.
